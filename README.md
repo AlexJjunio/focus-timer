@@ -19,4 +19,4 @@ Imperative Programming
 
 ## App
 
-[pomodoro-2.0-dark-mode](https://alexjjunio.github.io/pomodoro-2.0-dark-mode/)
+[pomodoro-2.0-dark-mode](https://alexjjunio.github.io/focus-timer/)
