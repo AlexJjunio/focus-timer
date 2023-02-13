@@ -1,4 +1,4 @@
-# Título do Projeto
+# Focus Timer
 
 Aplicação Focus-timer baseada no método pomodoro, técnica  de gerenciamento de tempo.
 
