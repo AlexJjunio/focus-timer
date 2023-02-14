@@ -2,8 +2,7 @@
 
 Aplicação Focus-timer baseada no método pomodoro, técnica  de gerenciamento de tempo.
 
-![App Screenshot](https://github.com/AlexJjunio/pomodoro-2.0-dark-mode/blob/main/github/pomodoro-mobile-light-mode.png)
-![App Screenshot](https://github.com/AlexJjunio/pomodoro-2.0-dark-mode/blob/main/github/pomodoro-mobile-dark-mode.png)
+![App Screenshot](https://github.com/AlexJjunio/focus-timer/blob/main/github/lightmode-and-darkmode-gif.gif)
 
 ## Principais aprendizados
 ES6 Modules,
